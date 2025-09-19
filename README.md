@@ -11,3 +11,7 @@
 4. Start a development server `npm run dev`
 5. Open your browser and visit (http://localhost:3000) to see project live
 
+
+## 📚 Tech Stack
+
+
